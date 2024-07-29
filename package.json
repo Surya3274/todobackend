@@ -1,0 +1,23 @@
+{
+  "name": "createreact",
+  "version": "1.0.0",
+  "description": "Todo bcakend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surya3274/todobackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surya3274/todobackend/issues"
+  },
+  "homepage": "https://github.com/Surya3274/todobackend#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "zod": "^3.23.8"
+  }
+}
